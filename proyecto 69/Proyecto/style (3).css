@@ -1,0 +1,17 @@
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+.travel_mainiDiv
+{
+    border:1px solid lightgray;
+}
+.travel_mainiDiv img
+{
+    width:100%
+ }
+.travel_mainiDiv h5 , .travel_mainiDiv p
+{
+    margin: 20px
+}
